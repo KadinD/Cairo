@@ -1,0 +1,3272 @@
+{
+    "builtins": [],
+    "data": [
+        1226245742482522112,
+        80,
+        74168662805676031,
+        0,
+        2345108766317314046,
+        1226245742482522112,
+        5,
+        5198420613823102976,
+        3618502788666131213697322783095070105623107215331596699973092056135872020479,
+        2345108766317314046,
+        2345108766317314046,
+        1226245742482522112,
+        3618502788666131213697322783095070105623107215331596699973092056135872020474,
+        5198420613823168512,
+        3618502788666131213697322783095070105623107215331596699973092056135872020468,
+        5202361254907052032,
+        2345108766317314046,
+        5188850460319907840,
+        5198420613823168512,
+        3618502788666131213697322783095070105623107215331596699973092056135872020480,
+        5210805504208437248,
+        5198420613823037440,
+        3618502788666131213697322783095070105623107215331596699973092056135872020479,
+        5210805504208437248,
+        5198420613822906368,
+        3618502788666131213697322783095070105623107215331596699973092056135872020478,
+        5189976364521848832,
+        0,
+        4634344747609980927,
+        5188850464614875136,
+        5198420613823168512,
+        3618502788666131213697322783095070105623107215331596699973092056135872020480,
+        5210805504208437248,
+        5198420613823037440,
+        3618502788666131213697322783095070105623107215331596699973092056135872020479,
+        5210805504208437248,
+        5198420613822906368,
+        3618502788666131213697322783095070105623107215331596699973092056135872020478,
+        5189976364521848832,
+        0,
+        4634344747609980927,
+        2345108766317314046,
+        290341444919459839,
+        2,
+        5188850460319842304,
+        5188850460319907840,
+        4625900502603825150,
+        5188850464614809600,
+        5188850464614875136,
+        4625900502603890686,
+        146226256843603968,
+        6,
+        5189976364521848832,
+        1,
+        4632655910634881023,
+        2345108766317314046,
+        5189976364521848832,
+        1,
+        4632655906339848191,
+        4613797087195136001,
+        0,
+        2345108766317314046,
+        5191102242953854976,
+        1226245742482522112,
+        3618502788666131213697322783095070105623107215331596699973092056135872020435,
+        146226256843603965,
+        3,
+        2345108766317314046,
+        5191102242953854976,
+        5198983563776393216,
+        2,
+        1226245742482522112,
+        3618502788666131213697322783095070105623107215331596699973092056135872020452,
+        5198983563776393216,
+        2,
+        5198983563776458752,
+        3618502788666131213697322783095070105623107215331596699973092056135872020480,
+        1226245742482522112,
+        3618502788666131213697322783095070105623107215331596699973092056135872020466,
+        2345108766317314046,
+        290341444919459839,
+        10,
+        4613797087195136000,
+        0,
+        4613797087195136001,
+        10,
+        4613797087195136002,
+        1,
+        4613797087195136003,
+        2,
+        4613797087195136004,
+        1,
+        4613797087195136005,
+        3,
+        4613797087195136006,
+        2,
+        4613797087195136007,
+        3,
+        4613797087195136008,
+        3,
+        4613797087195136009,
+        3,
+        1226245742482522112,
+        3618502788666131213697322783095070105623107215331596699973092056135872020383,
+        5193354051357474816,
+        5189976364521848832,
+        4,
+        1226245742482522112,
+        3618502788666131213697322783095070105623107215331596699973092056135872020436,
+        2345108766317314046
+    ],
+    "debug_info": {
+        "file_contents": {
+            "<start>": "__start__:\ncall main\n\n__end__:\njmp rel 0\n"
+        },
+        "instruction_locations": {
+            "0": {
+                "accessible_scopes": [
+                    "__main__"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 10,
+                    "end_line": 2,
+                    "input_file": {
+                        "filename": "<start>"
+                    },
+                    "start_col": 1,
+                    "start_line": 2
+                }
+            },
+            "2": {
+                "accessible_scopes": [
+                    "__main__"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 10,
+                    "end_line": 5,
+                    "input_file": {
+                        "filename": "<start>"
+                    },
+                    "start_col": 1,
+                    "start_line": 5
+                }
+            },
+            "4": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.registers",
+                    "starkware.cairo.common.registers.get_fp_and_pc"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 8,
+                    "input_file": {
+                        "filename": "/Users/kadin/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/registers.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 8
+                }
+            },
+            "5": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.registers",
+                    "starkware.cairo.common.registers.get_ap"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 20,
+                    "end_line": 18,
+                    "input_file": {
+                        "filename": "/Users/kadin/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/registers.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 18
+                }
+            },
+            "7": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.registers",
+                    "starkware.cairo.common.registers.get_ap"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 32,
+                    "end_line": 19,
+                    "input_file": {
+                        "filename": "/Users/kadin/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/registers.cairo"
+                    },
+                    "start_col": 20,
+                    "start_line": 19
+                }
+            },
+            "9": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.registers",
+                    "starkware.cairo.common.registers.get_ap"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 1
+                    },
+                    "reference_ids": {}
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 33,
+                    "end_line": 19,
+                    "input_file": {
+                        "filename": "/Users/kadin/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/registers.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 19
+                }
+            },
+            "10": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.registers",
+                    "starkware.cairo.common.registers.dummy_func"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 14,
+                    "end_line": 23,
+                    "input_file": {
+                        "filename": "/Users/kadin/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/registers.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 23
+                }
+            },
+            "11": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.registers",
+                    "starkware.cairo.common.registers.get_label_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 6,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "starkware.cairo.common.registers.get_label_location.label_value": 0
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 38,
+                    "end_line": 45,
+                    "input_file": {
+                        "filename": "/Users/kadin/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/registers.cairo"
+                    },
+                    "start_col": 23,
+                    "start_line": 45
+                }
+            },
+            "13": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.registers",
+                    "starkware.cairo.common.registers.get_label_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 6,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "starkware.cairo.common.registers.get_label_location._": 1,
+                        "starkware.cairo.common.registers.get_label_location.__temp0": 3,
+                        "starkware.cairo.common.registers.get_label_location.label_value": 0,
+                        "starkware.cairo.common.registers.get_label_location.pc_val": 2
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 52,
+                    "end_line": 48,
+                    "input_file": {
+                        "filename": "/Users/kadin/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/registers.cairo"
+                    },
+                    "start_col": 17,
+                    "start_line": 48
+                }
+            },
+            "15": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.registers",
+                    "starkware.cairo.common.registers.get_label_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 6,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "starkware.cairo.common.registers.get_label_location._": 1,
+                        "starkware.cairo.common.registers.get_label_location.__temp0": 3,
+                        "starkware.cairo.common.registers.get_label_location.label_value": 0,
+                        "starkware.cairo.common.registers.get_label_location.pc_val": 2
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 52,
+                    "end_line": 48,
+                    "input_file": {
+                        "filename": "/Users/kadin/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/registers.cairo"
+                    },
+                    "start_col": 17,
+                    "start_line": 48
+                }
+            },
+            "16": {
+                "accessible_scopes": [
+                    "starkware.cairo.common.registers",
+                    "starkware.cairo.common.registers.get_label_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 6,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "starkware.cairo.common.registers.get_label_location._": 1,
+                        "starkware.cairo.common.registers.get_label_location.__temp0": 3,
+                        "starkware.cairo.common.registers.get_label_location.label_value": 0,
+                        "starkware.cairo.common.registers.get_label_location.pc_val": 2
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 53,
+                    "end_line": 48,
+                    "input_file": {
+                        "filename": "/Users/kadin/cairo_venv/lib/python3.9/site-packages/starkware/cairo/common/registers.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 48
+                }
+            },
+            "17": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 26,
+                    "end_line": 11,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 11
+                }
+            },
+            "18": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 26,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 19,
+                    "start_line": 12
+                }
+            },
+            "20": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 12,
+                    "start_line": 12
+                }
+            },
+            "21": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 38,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 31,
+                    "start_line": 12
+                }
+            },
+            "23": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 39,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 12,
+                    "start_line": 12
+                }
+            },
+            "24": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 50,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 43,
+                    "start_line": 12
+                }
+            },
+            "26": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 6
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 55,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 54,
+                    "start_line": 12
+                }
+            },
+            "28": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 55,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 12
+                }
+            },
+            "29": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.col": 12,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 26,
+                    "end_line": 15,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 15
+                }
+            },
+            "30": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 8
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.__temp7": 13,
+                        "__main__.verify_valid_location.col": 12,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 26,
+                    "end_line": 16,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 19,
+                    "start_line": 16
+                }
+            },
+            "32": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 9
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.__temp7": 13,
+                        "__main__.verify_valid_location.__temp8": 14,
+                        "__main__.verify_valid_location.col": 12,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 16,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 12,
+                    "start_line": 16
+                }
+            },
+            "33": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.__temp7": 13,
+                        "__main__.verify_valid_location.__temp8": 14,
+                        "__main__.verify_valid_location.__temp9": 15,
+                        "__main__.verify_valid_location.col": 12,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 38,
+                    "end_line": 16,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 31,
+                    "start_line": 16
+                }
+            },
+            "35": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 11
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp10": 16,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.__temp7": 13,
+                        "__main__.verify_valid_location.__temp8": 14,
+                        "__main__.verify_valid_location.__temp9": 15,
+                        "__main__.verify_valid_location.col": 12,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 39,
+                    "end_line": 16,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 12,
+                    "start_line": 16
+                }
+            },
+            "36": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 12
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp10": 16,
+                        "__main__.verify_valid_location.__temp11": 17,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.__temp7": 13,
+                        "__main__.verify_valid_location.__temp8": 14,
+                        "__main__.verify_valid_location.__temp9": 15,
+                        "__main__.verify_valid_location.col": 12,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 50,
+                    "end_line": 16,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 43,
+                    "start_line": 16
+                }
+            },
+            "38": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 13
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp10": 16,
+                        "__main__.verify_valid_location.__temp11": 17,
+                        "__main__.verify_valid_location.__temp12": 18,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.__temp7": 13,
+                        "__main__.verify_valid_location.__temp8": 14,
+                        "__main__.verify_valid_location.__temp9": 15,
+                        "__main__.verify_valid_location.col": 12,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 55,
+                    "end_line": 16,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 54,
+                    "start_line": 16
+                }
+            },
+            "40": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 14
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp10": 16,
+                        "__main__.verify_valid_location.__temp11": 17,
+                        "__main__.verify_valid_location.__temp12": 18,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.__temp7": 13,
+                        "__main__.verify_valid_location.__temp8": 14,
+                        "__main__.verify_valid_location.__temp9": 15,
+                        "__main__.verify_valid_location.col": 12,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 55,
+                    "end_line": 16,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 16
+                }
+            },
+            "41": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_valid_location"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 7,
+                        "offset": 14
+                    },
+                    "reference_ids": {
+                        "__main__.verify_valid_location.__temp1": 6,
+                        "__main__.verify_valid_location.__temp10": 16,
+                        "__main__.verify_valid_location.__temp11": 17,
+                        "__main__.verify_valid_location.__temp12": 18,
+                        "__main__.verify_valid_location.__temp2": 7,
+                        "__main__.verify_valid_location.__temp3": 8,
+                        "__main__.verify_valid_location.__temp4": 9,
+                        "__main__.verify_valid_location.__temp5": 10,
+                        "__main__.verify_valid_location.__temp6": 11,
+                        "__main__.verify_valid_location.__temp7": 13,
+                        "__main__.verify_valid_location.__temp8": 14,
+                        "__main__.verify_valid_location.__temp9": 15,
+                        "__main__.verify_valid_location.col": 12,
+                        "__main__.verify_valid_location.loc": 4,
+                        "__main__.verify_valid_location.row": 5
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 14,
+                    "end_line": 18,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 18
+                }
+            },
+            "42": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 23,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 23
+                }
+            },
+            "44": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 30,
+                    "end_line": 24,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 24
+                }
+            },
+            "45": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 24,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 33,
+                    "start_line": 24
+                }
+            },
+            "46": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 24,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 24
+                }
+            },
+            "47": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 30,
+                    "end_line": 25,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 22,
+                    "start_line": 25
+                }
+            },
+            "48": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 25,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 33,
+                    "start_line": 25
+                }
+            },
+            "49": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 6
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 25,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 25
+                }
+            },
+            "50": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 6
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.col_diff": 26,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 7,
+                    "end_line": 27,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 27
+                }
+            },
+            "52": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 6
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.__temp17": 27,
+                        "__main__.verify_adjacent_locations.col_diff": 26,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 39,
+                    "end_line": 30,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 38,
+                    "start_line": 30
+                }
+            },
+            "54": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.__temp17": 27,
+                        "__main__.verify_adjacent_locations.col_diff": 26,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 39,
+                    "end_line": 30,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 30
+                }
+            },
+            "55": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.__temp17": 27,
+                        "__main__.verify_adjacent_locations.col_diff": 26,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 31
+                }
+            },
+            "56": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 6
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.__temp18": 28,
+                        "__main__.verify_adjacent_locations.col_diff": 26,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 39,
+                    "end_line": 34,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 38,
+                    "start_line": 34
+                }
+            },
+            "58": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.__temp18": 28,
+                        "__main__.verify_adjacent_locations.col_diff": 26,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 39,
+                    "end_line": 34,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 34
+                }
+            },
+            "59": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.__temp18": 28,
+                        "__main__.verify_adjacent_locations.col_diff": 26,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 36,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 36
+                }
+            },
+            "61": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_adjacent_locations"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 8,
+                        "offset": 7
+                    },
+                    "reference_ids": {
+                        "__main__.verify_adjacent_locations.__temp13": 21,
+                        "__main__.verify_adjacent_locations.__temp14": 22,
+                        "__main__.verify_adjacent_locations.__temp15": 24,
+                        "__main__.verify_adjacent_locations.__temp16": 25,
+                        "__main__.verify_adjacent_locations.__temp18": 28,
+                        "__main__.verify_adjacent_locations.col_diff": 26,
+                        "__main__.verify_adjacent_locations.loc0": 19,
+                        "__main__.verify_adjacent_locations.loc1": 20,
+                        "__main__.verify_adjacent_locations.row_diff": 23
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 37,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 37
+                }
+            },
+            "62": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 47,
+                    "end_line": 41,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 39,
+                            "end_line": 45,
+                            "input_file": {
+                                "filename": "fifteen_puzzle.cairo"
+                            },
+                            "start_col": 31,
+                            "start_line": 45
+                        },
+                        "While expanding the reference 'loc_list' in:"
+                    ],
+                    "start_col": 27,
+                    "start_line": 41
+                }
+            },
+            "63": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 40,
+                    "end_line": 45,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 45
+                }
+            },
+            "65": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 17
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 7,
+                    "end_line": 47,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 47
+                }
+            },
+            "67": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 17
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 48,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 48
+                }
+            },
+            "68": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 17
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 47,
+                    "end_line": 41,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 22,
+                            "end_line": 52,
+                            "input_file": {
+                                "filename": "fifteen_puzzle.cairo"
+                            },
+                            "start_col": 14,
+                            "start_line": 52
+                        },
+                        "While expanding the reference 'loc_list' in:"
+                    ],
+                    "start_col": 27,
+                    "start_line": 41
+                }
+            },
+            "69": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 18
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 53,
+                    "end_line": 52,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 29,
+                    "start_line": 52
+                }
+            },
+            "71": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 19
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 54,
+                    "end_line": 52,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 51
+                }
+            },
+            "73": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 28
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 42,
+                    "end_line": 56,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 18,
+                    "start_line": 56
+                }
+            },
+            "75": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 29
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 63,
+                    "end_line": 56,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 52,
+                    "start_line": 56
+                }
+            },
+            "77": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 9,
+                        "offset": 30
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 64,
+                    "end_line": 56,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 55
+                }
+            },
+            "79": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.verify_location_list"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 10,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.verify_location_list.loc_list": 29,
+                        "__main__.verify_location_list.n_steps": 30
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 14,
+                    "end_line": 57,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 57
+                }
+            },
+            "80": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 62,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 62
+                }
+            },
+            "82": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 65,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 65
+                }
+            },
+            "84": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 25,
+                    "end_line": 66,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 66
+                }
+            },
+            "86": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 68,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 68
+                }
+            },
+            "88": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 69,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 69
+                }
+            },
+            "90": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 71,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 71
+                }
+            },
+            "92": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 72,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 72
+                }
+            },
+            "94": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33,
+                        "__main__.main.loc3": 34
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 74,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 74
+                }
+            },
+            "96": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33,
+                        "__main__.main.loc3": 34
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 75,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 75
+                }
+            },
+            "98": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33,
+                        "__main__.main.loc3": 34,
+                        "__main__.main.loc4": 35
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 77,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 77
+                }
+            },
+            "100": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33,
+                        "__main__.main.loc3": 34,
+                        "__main__.main.loc4": 35
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 78,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 78
+                }
+            },
+            "102": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "reference_ids": {
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33,
+                        "__main__.main.loc3": 34,
+                        "__main__.main.loc4": 35
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 38,
+                    "end_line": 82,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 23,
+                    "start_line": 82
+                }
+            },
+            "104": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 12
+                    },
+                    "reference_ids": {
+                        "__main__.main._": 37,
+                        "__main__.main.__fp__": 36,
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33,
+                        "__main__.main.loc3": 34,
+                        "__main__.main.loc4": 35
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 15,
+                    "end_line": 64,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 40,
+                            "end_line": 85,
+                            "input_file": {
+                                "filename": "fifteen_puzzle.cairo"
+                            },
+                            "start_col": 36,
+                            "start_line": 85
+                        },
+                        "While expanding the reference 'loc0' in:"
+                    ],
+                    "start_col": 11,
+                    "start_line": 64
+                }
+            },
+            "105": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 13
+                    },
+                    "reference_ids": {
+                        "__main__.main._": 37,
+                        "__main__.main.__fp__": 36,
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33,
+                        "__main__.main.loc3": 34,
+                        "__main__.main.loc4": 35
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 51,
+                    "end_line": 85,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 50,
+                    "start_line": 85
+                }
+            },
+            "107": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 11,
+                        "offset": 14
+                    },
+                    "reference_ids": {
+                        "__main__.main._": 37,
+                        "__main__.main.__fp__": 36,
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33,
+                        "__main__.main.loc3": 34,
+                        "__main__.main.loc4": 35
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 52,
+                    "end_line": 85,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 85
+                }
+            },
+            "109": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 12,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main._": 37,
+                        "__main__.main.__fp__": 36,
+                        "__main__.main.loc0": 31,
+                        "__main__.main.loc1": 32,
+                        "__main__.main.loc2": 33,
+                        "__main__.main.loc3": 34,
+                        "__main__.main.loc4": 35
+                    }
+                },
+                "hint": null,
+                "inst": {
+                    "end_col": 14,
+                    "end_line": 86,
+                    "input_file": {
+                        "filename": "fifteen_puzzle.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 86
+                }
+            }
+        }
+    },
+    "hints": {},
+    "identifiers": {
+        "__main__.Location": {
+            "pc": 17,
+            "type": "label"
+        },
+        "__main__.Location.Args.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.Location.Return.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.Location.SIZE": {
+            "type": "const",
+            "value": 2
+        },
+        "__main__.Location.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.Location.col": {
+            "cairo_type": "felt",
+            "offset": 1,
+            "type": "member"
+        },
+        "__main__.Location.row": {
+            "cairo_type": "felt",
+            "offset": 0,
+            "type": "member"
+        },
+        "__main__.__end__": {
+            "pc": 2,
+            "type": "label"
+        },
+        "__main__.__start__": {
+            "pc": 0,
+            "type": "label"
+        },
+        "__main__.get_fp_and_pc": {
+            "destination": "starkware.cairo.common.registers.get_fp_and_pc",
+            "type": "alias"
+        },
+        "__main__.main": {
+            "pc": 80,
+            "type": "label"
+        },
+        "__main__.main.Args.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.main.Return.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.main.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 10
+        },
+        "__main__.main._": {
+            "full_name": "__main__.main._",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 11,
+                        "offset": 12
+                    },
+                    "pc": 104,
+                    "value": "cast([ap + (-1)], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.__fp__": {
+            "full_name": "__main__.main.__fp__",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 11,
+                        "offset": 12
+                    },
+                    "pc": 104,
+                    "value": "cast([ap + (-2)], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.loc0": {
+            "full_name": "__main__.main.loc0",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "pc": 82,
+                    "value": "cast([fp], __main__.Location)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.loc1": {
+            "full_name": "__main__.main.loc1",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "pc": 86,
+                    "value": "cast([fp + 2], __main__.Location)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.loc2": {
+            "full_name": "__main__.main.loc2",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "pc": 90,
+                    "value": "cast([fp + 4], __main__.Location)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.loc3": {
+            "full_name": "__main__.main.loc3",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "pc": 94,
+                    "value": "cast([fp + 6], __main__.Location)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main.loc4": {
+            "full_name": "__main__.main.loc4",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 11,
+                        "offset": 10
+                    },
+                    "pc": 98,
+                    "value": "cast([fp + 8], __main__.Location)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations": {
+            "pc": 42,
+            "type": "label"
+        },
+        "__main__.verify_adjacent_locations.Args.SIZE": {
+            "type": "const",
+            "value": 2
+        },
+        "__main__.verify_adjacent_locations.Args.loc0": {
+            "cairo_type": "__main__.Location*",
+            "offset": 0,
+            "type": "member"
+        },
+        "__main__.verify_adjacent_locations.Args.loc1": {
+            "cairo_type": "__main__.Location*",
+            "offset": 1,
+            "type": "member"
+        },
+        "__main__.verify_adjacent_locations.Return.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.verify_adjacent_locations.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 2
+        },
+        "__main__.verify_adjacent_locations.__temp13": {
+            "full_name": "__main__.verify_adjacent_locations.__temp13",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 2
+                    },
+                    "pc": 44,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations.__temp14": {
+            "full_name": "__main__.verify_adjacent_locations.__temp14",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 3
+                    },
+                    "pc": 45,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations.__temp15": {
+            "full_name": "__main__.verify_adjacent_locations.__temp15",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 4
+                    },
+                    "pc": 47,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations.__temp16": {
+            "full_name": "__main__.verify_adjacent_locations.__temp16",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 5
+                    },
+                    "pc": 48,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations.__temp17": {
+            "full_name": "__main__.verify_adjacent_locations.__temp17",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 6
+                    },
+                    "pc": 52,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations.__temp18": {
+            "full_name": "__main__.verify_adjacent_locations.__temp18",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 6
+                    },
+                    "pc": 56,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations._anon_label0": {
+            "pc": 56,
+            "type": "label"
+        },
+        "__main__.verify_adjacent_locations._anon_label1": {
+            "pc": 62,
+            "type": "label"
+        },
+        "__main__.verify_adjacent_locations.col_diff": {
+            "full_name": "__main__.verify_adjacent_locations.col_diff",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 6
+                    },
+                    "pc": 50,
+                    "value": "cast([fp + 1], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations.loc0": {
+            "full_name": "__main__.verify_adjacent_locations.loc0",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 0
+                    },
+                    "pc": 42,
+                    "value": "cast([fp + (-4)], __main__.Location*)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations.loc1": {
+            "full_name": "__main__.verify_adjacent_locations.loc1",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 0
+                    },
+                    "pc": 42,
+                    "value": "cast([fp + (-3)], __main__.Location*)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_adjacent_locations.row_diff": {
+            "full_name": "__main__.verify_adjacent_locations.row_diff",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 8,
+                        "offset": 4
+                    },
+                    "pc": 47,
+                    "value": "cast([fp], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_location_list": {
+            "pc": 62,
+            "type": "label"
+        },
+        "__main__.verify_location_list.Args.SIZE": {
+            "type": "const",
+            "value": 2
+        },
+        "__main__.verify_location_list.Args.loc_list": {
+            "cairo_type": "__main__.Location*",
+            "offset": 0,
+            "type": "member"
+        },
+        "__main__.verify_location_list.Args.n_steps": {
+            "cairo_type": "felt",
+            "offset": 1,
+            "type": "member"
+        },
+        "__main__.verify_location_list.Return.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.verify_location_list.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.verify_location_list._anon_label2": {
+            "pc": 68,
+            "type": "label"
+        },
+        "__main__.verify_location_list._anon_label3": {
+            "pc": 68,
+            "type": "label"
+        },
+        "__main__.verify_location_list.loc_list": {
+            "full_name": "__main__.verify_location_list.loc_list",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 9,
+                        "offset": 0
+                    },
+                    "pc": 62,
+                    "value": "cast([fp + (-4)], __main__.Location*)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_location_list.n_steps": {
+            "full_name": "__main__.verify_location_list.n_steps",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 9,
+                        "offset": 0
+                    },
+                    "pc": 62,
+                    "value": "cast([fp + (-3)], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location": {
+            "pc": 17,
+            "type": "label"
+        },
+        "__main__.verify_valid_location.Args.SIZE": {
+            "type": "const",
+            "value": 1
+        },
+        "__main__.verify_valid_location.Args.loc": {
+            "cairo_type": "__main__.Location*",
+            "offset": 0,
+            "type": "member"
+        },
+        "__main__.verify_valid_location.Return.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.verify_valid_location.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.verify_valid_location.__temp1": {
+            "full_name": "__main__.verify_valid_location.__temp1",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 1
+                    },
+                    "pc": 18,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp10": {
+            "full_name": "__main__.verify_valid_location.__temp10",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 11
+                    },
+                    "pc": 35,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp11": {
+            "full_name": "__main__.verify_valid_location.__temp11",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 12
+                    },
+                    "pc": 36,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp12": {
+            "full_name": "__main__.verify_valid_location.__temp12",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 13
+                    },
+                    "pc": 38,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp2": {
+            "full_name": "__main__.verify_valid_location.__temp2",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 2
+                    },
+                    "pc": 20,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp3": {
+            "full_name": "__main__.verify_valid_location.__temp3",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 3
+                    },
+                    "pc": 21,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp4": {
+            "full_name": "__main__.verify_valid_location.__temp4",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 4
+                    },
+                    "pc": 23,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp5": {
+            "full_name": "__main__.verify_valid_location.__temp5",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 5
+                    },
+                    "pc": 24,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp6": {
+            "full_name": "__main__.verify_valid_location.__temp6",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 6
+                    },
+                    "pc": 26,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp7": {
+            "full_name": "__main__.verify_valid_location.__temp7",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 8
+                    },
+                    "pc": 30,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp8": {
+            "full_name": "__main__.verify_valid_location.__temp8",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 9
+                    },
+                    "pc": 32,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.__temp9": {
+            "full_name": "__main__.verify_valid_location.__temp9",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 10
+                    },
+                    "pc": 33,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.col": {
+            "full_name": "__main__.verify_valid_location.col",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 7
+                    },
+                    "pc": 29,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.loc": {
+            "full_name": "__main__.verify_valid_location.loc",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 0
+                    },
+                    "pc": 17,
+                    "value": "cast([fp + (-3)], __main__.Location*)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.verify_valid_location.row": {
+            "full_name": "__main__.verify_valid_location.row",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 7,
+                        "offset": 0
+                    },
+                    "pc": 17,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "starkware.cairo.common.registers.dummy_func": {
+            "pc": 10,
+            "type": "label"
+        },
+        "starkware.cairo.common.registers.dummy_func.Args.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "starkware.cairo.common.registers.dummy_func.Return.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "starkware.cairo.common.registers.dummy_func.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "starkware.cairo.common.registers.get_ap": {
+            "pc": 5,
+            "type": "label"
+        },
+        "starkware.cairo.common.registers.get_ap.Args.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "starkware.cairo.common.registers.get_ap.Return.SIZE": {
+            "type": "const",
+            "value": 1
+        },
+        "starkware.cairo.common.registers.get_ap.Return.ap_val": {
+            "cairo_type": "felt",
+            "offset": 0,
+            "type": "member"
+        },
+        "starkware.cairo.common.registers.get_ap.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "starkware.cairo.common.registers.get_fp_and_pc": {
+            "pc": 4,
+            "type": "label"
+        },
+        "starkware.cairo.common.registers.get_fp_and_pc.Args.SIZE": {
+            "type": "const",
+            "value": 0
+        },
+        "starkware.cairo.common.registers.get_fp_and_pc.Return.SIZE": {
+            "type": "const",
+            "value": 2
+        },
+        "starkware.cairo.common.registers.get_fp_and_pc.Return.fp_val": {
+            "cairo_type": "felt",
+            "offset": 0,
+            "type": "member"
+        },
+        "starkware.cairo.common.registers.get_fp_and_pc.Return.pc_val": {
+            "cairo_type": "felt",
+            "offset": 1,
+            "type": "member"
+        },
+        "starkware.cairo.common.registers.get_fp_and_pc.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "starkware.cairo.common.registers.get_label_location": {
+            "pc": 11,
+            "type": "label"
+        },
+        "starkware.cairo.common.registers.get_label_location.Args.SIZE": {
+            "type": "const",
+            "value": 1
+        },
+        "starkware.cairo.common.registers.get_label_location.Args.label_value": {
+            "cairo_type": "felt",
+            "offset": 0,
+            "type": "member"
+        },
+        "starkware.cairo.common.registers.get_label_location.Return.SIZE": {
+            "type": "const",
+            "value": 1
+        },
+        "starkware.cairo.common.registers.get_label_location.Return.res": {
+            "cairo_type": "felt",
+            "offset": 0,
+            "type": "member"
+        },
+        "starkware.cairo.common.registers.get_label_location.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "starkware.cairo.common.registers.get_label_location._": {
+            "full_name": "starkware.cairo.common.registers.get_label_location._",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 6,
+                        "offset": 2
+                    },
+                    "pc": 13,
+                    "value": "cast([ap + (-2)], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "starkware.cairo.common.registers.get_label_location.__temp0": {
+            "full_name": "starkware.cairo.common.registers.get_label_location.__temp0",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 6,
+                        "offset": 2
+                    },
+                    "pc": 13,
+                    "value": "cast([ap], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "starkware.cairo.common.registers.get_label_location.label_value": {
+            "full_name": "starkware.cairo.common.registers.get_label_location.label_value",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 6,
+                        "offset": 0
+                    },
+                    "pc": 11,
+                    "value": "cast([fp + (-3)], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "starkware.cairo.common.registers.get_label_location.pc_val": {
+            "full_name": "starkware.cairo.common.registers.get_label_location.pc_val",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 6,
+                        "offset": 2
+                    },
+                    "pc": 13,
+                    "value": "cast([ap + (-1)], felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "starkware.cairo.common.registers.get_label_location.ret_pc_label": {
+            "pc": 13,
+            "type": "label"
+        }
+    },
+    "main_scope": "__main__",
+    "prime": 3618502788666131213697322783095070105623107215331596699973092056135872020481,
+    "reference_manager": {
+        "references": [
+            {
+                "ap_tracking_data": {
+                    "group": 6,
+                    "offset": 0
+                },
+                "pc": 11,
+                "value": "cast([fp + (-3)], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 6,
+                    "offset": 2
+                },
+                "pc": 13,
+                "value": "cast([ap + (-2)], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 6,
+                    "offset": 2
+                },
+                "pc": 13,
+                "value": "cast([ap + (-1)], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 6,
+                    "offset": 2
+                },
+                "pc": 13,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 0
+                },
+                "pc": 17,
+                "value": "cast([fp + (-3)], __main__.Location*)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 0
+                },
+                "pc": 17,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 1
+                },
+                "pc": 18,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 2
+                },
+                "pc": 20,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 3
+                },
+                "pc": 21,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 4
+                },
+                "pc": 23,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 5
+                },
+                "pc": 24,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 6
+                },
+                "pc": 26,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 7
+                },
+                "pc": 29,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 8
+                },
+                "pc": 30,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 9
+                },
+                "pc": 32,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 10
+                },
+                "pc": 33,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 11
+                },
+                "pc": 35,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 12
+                },
+                "pc": 36,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 7,
+                    "offset": 13
+                },
+                "pc": 38,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 0
+                },
+                "pc": 42,
+                "value": "cast([fp + (-4)], __main__.Location*)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 0
+                },
+                "pc": 42,
+                "value": "cast([fp + (-3)], __main__.Location*)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 2
+                },
+                "pc": 44,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 3
+                },
+                "pc": 45,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 4
+                },
+                "pc": 47,
+                "value": "cast([fp], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 4
+                },
+                "pc": 47,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 5
+                },
+                "pc": 48,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 6
+                },
+                "pc": 50,
+                "value": "cast([fp + 1], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 6
+                },
+                "pc": 52,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 8,
+                    "offset": 6
+                },
+                "pc": 56,
+                "value": "cast([ap], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 9,
+                    "offset": 0
+                },
+                "pc": 62,
+                "value": "cast([fp + (-4)], __main__.Location*)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 9,
+                    "offset": 0
+                },
+                "pc": 62,
+                "value": "cast([fp + (-3)], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 11,
+                    "offset": 10
+                },
+                "pc": 82,
+                "value": "cast([fp], __main__.Location)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 11,
+                    "offset": 10
+                },
+                "pc": 86,
+                "value": "cast([fp + 2], __main__.Location)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 11,
+                    "offset": 10
+                },
+                "pc": 90,
+                "value": "cast([fp + 4], __main__.Location)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 11,
+                    "offset": 10
+                },
+                "pc": 94,
+                "value": "cast([fp + 6], __main__.Location)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 11,
+                    "offset": 10
+                },
+                "pc": 98,
+                "value": "cast([fp + 8], __main__.Location)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 11,
+                    "offset": 12
+                },
+                "pc": 104,
+                "value": "cast([ap + (-2)], felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 11,
+                    "offset": 12
+                },
+                "pc": 104,
+                "value": "cast([ap + (-1)], felt)"
+            }
+        ]
+    }
+}
